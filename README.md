@@ -1,5 +1,5 @@
 A training project for learning the Git version control system.
 
-# Conflict
+# Not Conflict
 
-It is very important change. Trust me.
+This is absolutely useless change.
